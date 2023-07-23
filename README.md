@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DHANUSH P</h1>
 <h3 align="center">Student|DataAnalyst|MachineLearning|DeepLearning</h3>
 
-- 🌱 I’m currently learning **Post Graduate Program in Datascience And Analytics**
+- 🌱 I’m Completed my **Post Graduate Program in Data analytics and Machinelearning **
 
 - 💬 Ask me about **Python,MachineLearning,DeepLearning**
 
